@@ -37,3 +37,7 @@ function f8() {
     f7();
 }
 
+function f9() {
+    // do stuff
+    f8();
+}

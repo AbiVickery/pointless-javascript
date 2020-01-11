@@ -21,3 +21,8 @@ function f5() {
     // do stuff
     f4();
 }
+
+function f6() {
+    // do stuff
+    f5();
+}

@@ -31,3 +31,9 @@ function f7() {
     // do stuff
     f6();
 }
+
+function f8() {
+    // do stuff
+    f7();
+}
+

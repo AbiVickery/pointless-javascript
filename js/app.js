@@ -41,3 +41,8 @@ function f9() {
     // do stuff
     f8();
 }
+
+function f10() {
+    // do stuff
+    f9();
+}

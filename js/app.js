@@ -26,3 +26,8 @@ function f6() {
     // do stuff
     f5();
 }
+
+function f7() {
+    // do stuff
+    f6();
+}

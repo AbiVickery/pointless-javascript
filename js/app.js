@@ -46,3 +46,5 @@ function f10() {
     // do stuff
     f9();
 }
+
+// testing function limits and capabilites

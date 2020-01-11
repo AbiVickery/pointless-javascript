@@ -7,3 +7,7 @@ function f2() {
     f1();
 }
 
+function f3() {
+    // do stuff
+    f2();
+}
